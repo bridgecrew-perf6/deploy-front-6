@@ -1,0 +1,43 @@
+.divPostGame{ 
+    border: solid 1px black;
+    width: 25%;
+    height: 600px;
+    justify-content: center;
+    margin:auto;
+    margin-top: 55px;
+}
+.input{
+    display: flex;
+    width: 200px;
+    height: 70px;
+    justify-content: center;
+    margin:auto;
+    margin-top: 15px;
+}
+.addGame{
+    display: flex;
+    width: 100px;
+    height: 70px;
+    justify-content: center;
+    margin:auto;
+}
+@media (max-width: 768px) {
+    .divPostGame{ 
+        border: solid 1px black;
+        width: 55%;
+        height: 400px;
+        justify-content: center;
+        margin:auto;
+        margin-top: 55px;
+    }
+    .input{
+        width: 80px;
+        height: 20px;
+    }
+    .addGame{
+    
+        width: 130px;
+        height: 40px;
+       
+    }
+}

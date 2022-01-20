@@ -1,0 +1,137 @@
+.Gamediv{
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 4px;
+    padding: 5px;
+    width: 90%;
+    justify-content: space-around;
+    font-family: "Courier New", Courier, monospace;
+    text-align: center;
+}
+.extraImgessGame{
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 4px;
+    padding: 5px;
+    width: 90%;
+    justify-content: space-evenly;
+    font-family: "Courier New", Courier, monospace;
+    text-align: center;
+    position: relative;
+    left: 350px;
+    top: 100px;
+}
+.divExtraIMG{
+    width: 20%;    
+}
+.extraImgGame{
+    width: 110%;
+    height: 300px;
+    border-radius: 30px;
+}
+
+
+.imgGame{
+     width: 200px;
+  height: 200px;
+  border-radius: 50px;
+}
+
+.inputComment{
+    width: 300px;}
+.buttonComment{
+    position: relative;
+    top : 10px;
+    width: 40px;
+    height: 40px;
+    background-color: #e7e7e7; color: black;
+    font-size: 20px;
+    border-radius: 8px;
+}
+.video1{
+    width: 350px;
+    margin-left: 30px;
+}
+.divAddCommentAndReating{
+    /* border-radius: 50px; */
+    border: 1px solid black;
+    position: relative;
+    right: 10px;
+    bottom:  200px;
+    width: 450px;
+    height: 400px;
+}
+
+.commentsCont {
+    height: 300px;
+    overflow-y: auto;
+}
+
+.adminDiv{
+    border: solid 1px black;
+    width: 200px;
+    height: 400px;
+}
+.buttonUpdate{
+    width: 200px;
+}
+@media (max-width: 768px) {
+    .Gamediv{
+        border-radius: 4px;
+        padding: 5px;
+        width: 90%;
+    }
+    .extraImgessGame{
+        display: grid;
+        border-radius: 4px;
+        padding: 5px;
+        width: 80%;
+        position: relative;
+        left: 10px;
+        bottom: 1000px;
+    }
+    .divExtraIMG{
+        width: 35%;
+    }
+    .extraImgGame{
+        width: 350%;
+        height: 200px;
+       
+    }
+    
+    .imgGame{
+         width: 200px;
+      height: 200px;
+      border-radius: 50px;
+    }
+    .inputComment{
+        width: 100px;}
+    .buttonComment{
+        position: relative;
+        top : 10px;
+        width: 30px;
+        height: 30px;
+        background-color: #e7e7e7; color: black;
+        font-size: 20px;
+        border-radius: 8px;
+    }
+    .video1{
+        width: 300px;
+        margin-left: 20px;
+    }
+    .divAddCommentAndReating{
+       
+        /* border-radius: 50px; */
+        border: 1px solid black;
+        position: relative;
+        left:  20px;
+        top : 200px;
+        width: 300px;
+        height: 400px;
+    }
+    
+    .commentsCont {
+        height: 300px;
+        overflow-y: auto;
+    }
+}

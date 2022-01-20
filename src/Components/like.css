@@ -1,0 +1,15 @@
+.divLike{
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 4px;
+    padding: 5px;
+    width: 90%;
+    justify-content: space-around;
+    font-family: "Courier New", Courier, monospace;
+    text-align: center;
+}
+.imgLike{
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+}

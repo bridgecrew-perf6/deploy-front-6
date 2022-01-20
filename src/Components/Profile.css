@@ -1,0 +1,64 @@
+.inputProfile{
+    width: 200px;
+    height: 40px;
+}
+.buttonUpdate{
+    display: flex;
+    width: 30px;
+    height: 20px;
+    
+    
+}
+.reactIconDeleteUser{
+    width: 30px;
+    height: 20px;
+}
+.mainDivUser{
+    width: 250px;
+    position: absolute;
+    top: 30%;
+    right: 45%; 
+    padding: 30px;
+    border: black solid;
+}
+.imgUser{
+    width: 200px;
+border-radius: 50%;
+}
+.iconUplouad{
+    
+    width: 30px;
+height: 20px;
+}
+
+#fileUpdateInput{
+    display: none;
+}
+.divIcon{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 60px;
+
+}
+@media (max-width: 768px) {
+    .inputProfile{
+        width: 247px;
+        height: 20px;
+    }
+    .buttonUpdate{
+        width: 70px;
+        height: 60px; 
+    }
+    .mainDivUser{
+        width: 250px;
+        position: absolute;
+        top: 30%;
+        left: 30px; 
+    }
+    .imgUser{
+        width: 100px;
+    border-radius: 50%;
+    }
+
+}
