@@ -1,0 +1,52 @@
+.sidebar {
+  height: 100vh;
+  background: #212832;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.sidebar .logo {
+  display: block;
+  color: #fff;
+  padding: 20px 20px;
+  text-align: center;
+}
+.sidebar .logo img {
+  width: 160px;
+}
+.sidebar .logo span {
+  color: #3e60c1;
+}
+.sidebar ul {
+  list-style: none;
+}
+.sidebar ul li a {
+  margin: 10px;
+  padding: 10px 20px;
+
+  display: block;
+  border-radius: 4px;
+  color: #fff;
+  text-decoration: none;
+}
+.sidebar ul li a:hover {
+  background: #3e60c1;
+}
+.sidebar ul li a i {
+  background: #fff;
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  line-height: 30px;
+  border-radius: 3px;
+  margin-right: 10px;
+}
+.sidebar ul li a.facebook i {
+  color: #1877f2;
+}
+.sidebar ul li a.instagram i {
+  color: #e4405f;
+}
+.sidebar ul li a.whatsapp i {
+  color: #25d366;
+}

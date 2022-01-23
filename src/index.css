@@ -1,0 +1,16 @@
+body {
+  /* background-image: url(../src/Imgs/background.png); */
+  color: rgb(0, 0, 0) !important;
+}
+.mainBackgroung {
+  background-color: rgb(94, 81, 91);
+  border-radius: 10px;
+  margin-right: 16px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(74, 33, 112);
+  border-radius: 15px;
+}

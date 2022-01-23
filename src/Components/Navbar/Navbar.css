@@ -1,0 +1,60 @@
+.navbar {
+  /* background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(0,152,155,1) 0.1%, rgba(0,94,120,1) 94.2% ); */
+  background: #212832;
+  padding: 10px 0;
+  padding-right: 30px;
+}
+.nav-link {
+  border: 1px solid #fff;
+  border-radius: 10px;
+  padding: 5px 20px !important;
+  color: #fff !important;
+  display: inline-block !important;
+  font-size: 1.1rem;
+}
+.nav-link.active {
+  background: #3e60c1;
+}
+.nav-link:hover {
+  background: #3e60c1;
+}
+.searchInput {
+  background-color: rgb(224, 224, 224) !important;
+  border-radius: 15px;
+}
+.btn {
+  border: 0px !important;
+  border-radius: 10px !important;
+  color: rgb(255, 255, 255) !important;
+}
+
+.btn:hover {
+  background-color: rgb(177, 170, 175) !important;
+  color: white !important;
+}
+.btn:hover .link-dark {
+  color: rgb(255, 255, 255) !important;
+  background-color: rgb(177, 170, 170) !important;
+}
+
+.nopading {
+  padding: 0px !important;
+}
+.nav-icons {
+  font-size: 20px !important;
+}
+.logoutBtn:hover {
+  background-color: rgb(177, 170, 170) !important;
+  padding: 10px !important;
+  transition: all 0.5s ease-in-out;
+}
+.mybtn {
+  background-color: transparent !important;
+  color: white !important;
+}
+
+.cart-login a {
+  display: inline-block;
+  text-decoration: none;
+  color: #fff;
+}
