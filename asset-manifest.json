@@ -1,20 +1,31 @@
 {
   "files": {
-    "main.css": "/deploy-front/static/css/main.a953aca1.chunk.css",
-    "main.js": "/deploy-front/static/js/main.0070459e.chunk.js",
-    "main.js.map": "/deploy-front/static/js/main.0070459e.chunk.js.map",
+    "main.css": "/deploy-front/static/css/main.1e62c47d.chunk.css",
+    "main.js": "/deploy-front/static/js/main.a0391e4e.chunk.js",
+    "main.js.map": "/deploy-front/static/js/main.a0391e4e.chunk.js.map",
     "runtime-main.js": "/deploy-front/static/js/runtime-main.23ba4c56.js",
     "runtime-main.js.map": "/deploy-front/static/js/runtime-main.23ba4c56.js.map",
-    "static/js/2.27609914.chunk.js": "/deploy-front/static/js/2.27609914.chunk.js",
-    "static/js/2.27609914.chunk.js.map": "/deploy-front/static/js/2.27609914.chunk.js.map",
+    "static/css/2.ef2c77c0.chunk.css": "/deploy-front/static/css/2.ef2c77c0.chunk.css",
+    "static/js/2.00d377b0.chunk.js": "/deploy-front/static/js/2.00d377b0.chunk.js",
+    "static/js/2.00d377b0.chunk.js.map": "/deploy-front/static/js/2.00d377b0.chunk.js.map",
     "index.html": "/deploy-front/index.html",
-    "static/css/main.a953aca1.chunk.css.map": "/deploy-front/static/css/main.a953aca1.chunk.css.map",
-    "static/js/2.27609914.chunk.js.LICENSE.txt": "/deploy-front/static/js/2.27609914.chunk.js.LICENSE.txt"
+    "static/css/2.ef2c77c0.chunk.css.map": "/deploy-front/static/css/2.ef2c77c0.chunk.css.map",
+    "static/css/main.1e62c47d.chunk.css.map": "/deploy-front/static/css/main.1e62c47d.chunk.css.map",
+    "static/js/2.00d377b0.chunk.js.LICENSE.txt": "/deploy-front/static/js/2.00d377b0.chunk.js.LICENSE.txt",
+    "static/media/SignupAndLogin.css": "/deploy-front/static/media/1.0694983d.jpg",
+    "static/media/Screenshot 2021-12-21 081013.bc8181a2.png": "/deploy-front/static/media/Screenshot 2021-12-21 081013.bc8181a2.png",
+    "static/media/VID-20211212-WA0014.1a8269bd.mp4": "/deploy-front/static/media/VID-20211212-WA0014.1a8269bd.mp4",
+    "static/media/VID-20211217-WA0002.237fdaea.mp4": "/deploy-front/static/media/VID-20211217-WA0002.237fdaea.mp4",
+    "static/media/VID-20211217-WA0004.dd4648aa.mp4": "/deploy-front/static/media/VID-20211217-WA0004.dd4648aa.mp4",
+    "static/media/all.min.css": "/deploy-front/static/media/fa-solid-900.eeccf4f6.woff",
+    "static/media/logo.23aa8e30.png": "/deploy-front/static/media/logo.23aa8e30.png",
+    "static/media/poster2.47a7e604.png": "/deploy-front/static/media/poster2.47a7e604.png"
   },
   "entrypoints": [
     "static/js/runtime-main.23ba4c56.js",
-    "static/js/2.27609914.chunk.js",
-    "static/css/main.a953aca1.chunk.css",
-    "static/js/main.0070459e.chunk.js"
+    "static/css/2.ef2c77c0.chunk.css",
+    "static/js/2.00d377b0.chunk.js",
+    "static/css/main.1e62c47d.chunk.css",
+    "static/js/main.a0391e4e.chunk.js"
   ]
 }
